@@ -4,8 +4,6 @@ Full Stack Developer focused on building modern web applications, business syste
 
 ## 🌐 Live Portfolio
 
-## 🌐 Live Portfolio
-
 👉 [View Live Portfolio](https://portfolio-buenovictor25s-projects.vercel.app/)
 
 ## 🧠 About Me
