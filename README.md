@@ -1,36 +1,57 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Victor Bueno | Full Stack Developer
 
-## Getting Started
+Full Stack Developer focused on building modern web applications, business systems, and scalable digital solutions.
 
-First, run the development server:
+## 🌐 Live Portfolio
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+👉 https://SEU-LINK-VERCEL-AQUI
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🧠 About Me
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+I am a Full Stack Developer focused on building real-world applications using modern technologies.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+My work combines frontend development, backend APIs, database modeling, authentication, and clean architecture to create scalable and maintainable solutions.
 
-## Learn More
+## ⚙️ Tech Stack
 
-To learn more about Next.js, take a look at the following resources:
+### Frontend
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Backend
+- Node.js
+- Express
+- REST APIs
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Database
+- PostgreSQL
+- Prisma ORM
 
-## Deploy on Vercel
+### Tools
+- Git & GitHub
+- Docker
+- Postman
+- Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 💼 Featured Projects
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### 🔹 BizManager SaaS (In Progress)
+Business management platform for clients, orders, and revenue tracking.
+
+### 🔹 SupportFlow (Planned)
+Corporate help desk system with roles and workflow.
+
+### 🔹 AgencyPro (Planned)
+Premium business website with high-conversion design.
+
+## 📬 Contact
+
+- Email: bueno.dev77@gmail.com
+- LinkedIn: https://www.linkedin.com/in/buenovictor25/
+- GitHub: https://github.com/Buenovictor25
+
+---
+
+⭐ This portfolio is continuously evolving with new projects and improvements.
