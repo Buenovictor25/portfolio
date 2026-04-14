@@ -37,10 +37,10 @@ My work combines frontend development, backend APIs, database modeling, authenti
 
 ## 💼 Featured Projects
 
-### 🔹 BizManager SaaS (In Progress)
+### 🔹 BizManager SaaS (Finished)
 Business management platform for clients, orders, and revenue tracking.
 
-### 🔹 SupportFlow (Planned)
+### 🔹 SupportFlow (In Progress)
 Corporate help desk system with roles and workflow.
 
 ### 🔹 AgencyPro (Planned)
