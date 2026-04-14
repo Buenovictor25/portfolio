@@ -37,39 +37,40 @@ const projects = [
 
 export default function Projects() {
   return (
-    <section className="px-6 py-20 max-w-6xl mx-auto">
-      <h2 className="text-3xl font-bold mb-10">Featured Projects</h2>
+    <section id="projects" className="px-6 py-20 max-w-6xl mx-auto">
+      <h2 className="text-3xl font-bold mb-4">Featured Projects</h2>
+      <p className="text-gray-400 mb-10 max-w-3xl">
+        A curated selection of full stack projects focused on business value,
+        scalability, and modern web development.
+      </p>
 
-      <div className="grid md:grid-cols-2 gap-6">
+      <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
         {projects.map((project, index) => (
           <div
             key={index}
-            className="border border-gray-800 rounded-2xl p-6 hover:border-gray-600 transition"
+            className="border border-gray-800 rounded-2xl p-6 hover:border-gray-600 transition flex flex-col"
           >
-            <h3 className="text-xl font-semibold mb-2">
-              {project.title}
-            </h3>
+            <h3 className="text-2xl font-semibold mb-3">{project.title}</h3>
 
-            <p className="text-gray-400 mb-4">
-              {project.description}
-            </p>
+            <p className="text-gray-400 mb-5 flex-1">{project.description}</p>
 
-            <div className="flex flex-wrap gap-2 mb-4">
+            <div className="flex flex-wrap gap-2 mb-6">
               {project.stack.map((tech, i) => (
                 <span
                   key={i}
-                  className="text-xs border border-gray-700 px-2 py-1 rounded-full"
+                  className="text-xs border border-gray-700 px-3 py-1 rounded-full"
                 >
                   {tech}
                 </span>
               ))}
             </div>
 
-            <div className="flex gap-3">
+            <div className="flex gap-3 mt-auto">
               <a
                 href={project.live}
                 target="_blank"
-                className="px-4 py-2 text-sm bg-white text-black rounded-lg hover:opacity-80"
+                rel="noreferrer"
+                className="px-4 py-2 text-sm bg-white text-black rounded-lg hover:opacity-80 transition"
               >
                 Live Demo
               </a>
@@ -77,7 +78,8 @@ export default function Projects() {
               <a
                 href={project.github}
                 target="_blank"
-                className="px-4 py-2 text-sm border border-gray-600 rounded-lg hover:border-gray-400"
+                rel="noreferrer"
+                className="px-4 py-2 text-sm border border-gray-600 rounded-lg hover:border-gray-400 transition"
               >
                 GitHub
               </a>
