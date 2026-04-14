@@ -4,7 +4,8 @@ const projects = [
   {
     title: "BizManager SaaS",
     description:
-      "Full stack business management platform with authentication, protected dashboard, PostgreSQL, Prisma ORM, and production deployment using Render and Vercel.",
+  
+      "Production-ready SaaS platform with authentication, protected dashboard, REST APIs, PostgreSQL database, and full deployment using Render and Vercel.",
     stack: [
       "Next.js",
       "TypeScript",
@@ -72,7 +73,7 @@ export default function Projects() {
                 rel="noreferrer"
                 className="px-4 py-2 text-sm bg-white text-black rounded-lg hover:opacity-80 transition"
               >
-                Live Demo
+                View Live App
               </a>
 
               <a
